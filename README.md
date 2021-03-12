@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I am Bayartsogt 👋
+
+I am a Software Engineer but not able pull myself away from ML, NLP.
+
+- 🇰 I spend most of my free time on [Kaggle (3x🥈)](https://www.kaggle.com/bayartsogtya)
+- ∞  My main focus now is CI/CD.
+- 🎓 I'm currently doing my CS masters in Maharishi International University
+- ⚡  My name is hard to pronounce, so people call me "So". I always get confused if they calling me or just telling "so"...
 
 <!--
 **bayartsogt-ya/bayartsogt-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
