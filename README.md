@@ -3,10 +3,10 @@
 I am a Software Engineer but not able pull myself away from ML, NLP.
 
 - 🇰 I spend most of my free time on [Kaggle (3x🥈)](https://www.kaggle.com/bayartsogtya)
-- 🤗 I love my [HuggingFace](https://huggingface.co/bayartsogt) profile.
+- 🤗 I love my [HuggingFace](https://huggingface.co/bayartsogt) profile
 - ∞  I'm currently learning CI/CD.
 - 🎓 I'm currently doing my CS masters in Maharishi International University
-- ⚡  My name is hard to pronounce, so people call me "So". I always get confused if they calling me or just telling "so"...
+- ⚡  My name is hard to pronounce, so people call me "Bayar"
 
 <!--
 **bayartsogt-ya/bayartsogt-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
