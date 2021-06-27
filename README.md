@@ -1,6 +1,6 @@
 ### Hi, I am Bayartsogt 👋
 
-I am a Software Engineer but not able pull myself away from ML, NLP.
+I am a Software Engineer, who interested in ML and NLP.
 
 - 🇰 I spend most of my free time on [Kaggle (3x🥈)](https://www.kaggle.com/bayartsogtya)
 - 🤗 I love my [HuggingFace](https://huggingface.co/bayartsogt) profile
