@@ -9,7 +9,7 @@ I train open-source models in Mongolian 🇲🇳:
 | Task | Model | - |
 | - | - | - |
 | Speech to Text | Wav2Vec2 | [xlsr53-large](https://huggingface.co/bayartsogt/wav2vec2-large-xlsr-mongolian-v1) |
-| Speech to Text | Whisper | [large](bayartsogt/whisper-large-v2-mn-13), [medium](bayartsogt/whisper-medium-mn-10), [small](bayartsogt/whisper-small-mn-8)|
+| Speech to Text | Whisper | [small](bayartsogt/whisper-small-mn-8), [medium](bayartsogt/whisper-medium-mn-10), [large](bayartsogt/whisper-large-v2-mn-13)|
 | Text to Speech | [S^2](https://arxiv.org/abs/2109.06912) | [base](https://huggingface.co/bayartsogt/tts_transformer-mn-mbspeech) |
 | Masked Language Model | RoBERTa | [base](https://huggingface.co/bayartsogt/mongolian-roberta-base), [large](https://huggingface.co/bayartsogt/mongolian-roberta-large) |
 | Masked Language Model | ALBERT | [base](https://huggingface.co/bayartsogt/albert-mongolian) |
