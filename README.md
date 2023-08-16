@@ -1,24 +1,19 @@
 ### Hi, I am Bayartsogt 👋
 
-I am a Software Engineer, who interested in ML and NLP.
+- [`LinkedIn`](https://www.linkedin.com/in/bayartsogt-yadamsuren/) Software / ML Engineer, who is passionate about ML and NLP. 
+- [`Huggingface Fan`](https://huggingface.co/bayartsogt) Training Deep Learning models in my free time.
+- [`Kaggle Competition Expert`](https://www.kaggle.com/bayartsogtya) 4 x🥈
 
-- 🇰 I spend most of my free time on [Kaggle (3x🥈)](https://www.kaggle.com/bayartsogtya)
-- 🤗 I love my [HuggingFace](https://huggingface.co/bayartsogt) profile
-- ∞  I'm currently learning CI/CD.
-- 🎓 I'm currently doing my CS masters in Maharishi International University
-- ⚡  My name is hard to pronounce, so people call me "Bayar"
+I train open-source models in Mongolian 🇲🇳:
 
-<!--
-**bayartsogt-ya/bayartsogt-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Task | Model | - |
+| - | - | - |
+| Speech to Text | Wav2Vec2 | [xlsr53-large](https://huggingface.co/bayartsogt/wav2vec2-large-xlsr-mongolian-v1) |
+| Speech to Text | Whisper | [large](bayartsogt/whisper-large-v2-mn-13), [medium](bayartsogt/whisper-medium-mn-10), [small](bayartsogt/whisper-small-mn-8)|
+| Text to Speech | [S^2](https://arxiv.org/abs/2109.06912) | [base](https://huggingface.co/bayartsogt/tts_transformer-mn-mbspeech) |
+| Masked Language Model | RoBERTa | [base](https://huggingface.co/bayartsogt/mongolian-roberta-base), [large](https://huggingface.co/bayartsogt/mongolian-roberta-large) |
+| Masked Language Model | ALBERT | [base](https://huggingface.co/bayartsogt/albert-mongolian) |
+| Causal Language Model | GPT2 | [base](https://huggingface.co/bayartsogt/mongolian-gpt2) |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+References:
+- [Speech to Text HF Leaderboard](https://huggingface.co/spaces/autoevaluate/leaderboards?dataset=mozilla-foundation%2Fcommon_voice_11_0&only_verified=0&task=automatic-speech-recognition&config=mn&split=test&metric=wer)
